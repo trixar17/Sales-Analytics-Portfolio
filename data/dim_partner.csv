@@ -1,0 +1,81 @@
+﻿partner_id,partner_name,partner_tier,region,city,opened_date,parent_partner_id,is_active
+PT00001,(주) 한빛시스템 Carrier,Carrier,서울,남양주시,2023-06-10,PT00014,1
+PT00002,(주) 푸른항공 Authorized,Authorized,서울,안양시 만안구,2019-11-25,,1
+PT00003,(주) 가야고려상사 Carrier,Carrier,대전,과천시,2023-01-09,,1
+PT00004,(주) 인포 Online,Online,서울,고양시,2022-04-20,,1
+PT00005,유한회사 마루 Authorized,Authorized,서울,삼척시,2024-02-03,PT00023,1
+PT00006,(주) 네오하나전자 Authorized,Authorized,부산,가평군,2023-01-05,,1
+PT00007,주식회사 브레인네트워크 Premium,Premium Reseller,서울,안양시 만안구,2020-05-13,,1
+PT00008,(유) 비전솔루션 Carrier,Carrier,부산,성남시,2021-03-26,,1
+PT00009,(주) 시너지고려시스템즈 Authorized,Authorized,인천,서천군,2024-03-17,,1
+PT00010,주식회사 한가람고구려그룹 Carrier,Carrier,서울,태안군,2023-04-06,,1
+PT00011,(주) 마루국민유통 Carrier,Carrier,대전,의왕시,2019-12-10,PT00014,1
+PT00012,(유) 네오 Authorized,Authorized,서울,양주시,2021-11-09,,1
+PT00013,(유) 하나기술 Online,Online,경기,당진시,2021-01-08,PT00046,1
+PT00014,주식회사 네오제조 Premium,Premium Reseller,서울,수원시 장안구,2023-05-27,,1
+PT00015,주식회사 푸른 Carrier,Carrier,인천,용인시 수지구,2020-04-18,,1
+PT00016,주식회사 가온에너지 Carrier,Carrier,광주,춘천시,2024-07-15,,1
+PT00017,주식회사 제나에너지 Authorized,Authorized,경남,고양시 일산동구,2020-04-11,,1
+PT00018,유한회사 코리아우리바이오 Authorized,Authorized,부산,시흥시,2023-07-30,,1
+PT00019,(유) 한빛전자 Carrier,Carrier,인천,서산시,2019-03-10,PT00023,1
+PT00020,주식회사 글로벌윈드코스메틱 Online,Online,인천,안양시 만안구,2021-05-25,,1
+PT00021,(주) 나루반도체 Carrier,Carrier,서울,청주시 흥덕구,2024-06-06,,1
+PT00022,(주) 시너지 Authorized,Authorized,경기,수원시 장안구,2021-08-04,,1
+PT00023,(유) 인포가람네트웍스 Premium,Premium Reseller,서울,청주시 흥덕구,2023-01-26,,1
+PT00024,(유) 글로벌발해전자 Premium,Premium Reseller,경기,동두천시,2022-07-27,,1
+PT00025,(유) 윈드보안 Carrier,Carrier,경기,화천군,2021-11-10,,1
+PT00026,(유) 첨단 Authorized,Authorized,서울,화천군,2018-11-27,PT00023,1
+PT00027,주식회사 스타반도체 Authorized,Authorized,경북,천안시 동남구,2023-03-08,,1
+PT00028,(주) 종합 Carrier,Carrier,경기,용인시 수지구,2024-08-16,,1
+PT00029,(주) 스타신문 Premium,Premium Reseller,광주,구리시,2022-02-27,,1
+PT00030,(주) 고려코스메틱 Premium,Premium Reseller,경기,화성시,2018-06-29,,1
+PT00031,주식회사 글로벌 Online,Online,대구,태안군,2024-06-21,PT00046,1
+PT00032,주식회사 모두 Authorized,Authorized,경남,고성군,2022-01-16,PT00046,1
+PT00033,주식회사 이노한강뷰티 Carrier,Carrier,울산,보은군,2023-02-28,,1
+PT00034,(유) 에코유니온정보통신 Authorized,Authorized,서울,부천시 소사구,2020-08-26,PT00078,1
+PT00035,(주) 브레인개발공사 Authorized,Authorized,서울,논산시,2020-02-10,,1
+PT00036,주식회사 가람기술 Authorized,Authorized,경북,제천시,2022-09-17,PT00045,1
+PT00037,주식회사 고구려그룹 Online,Online,경기,연천군,2023-05-15,,1
+PT00038,주식회사 미래 Carrier,Carrier,경기,청주시 상당구,2018-08-09,,1
+PT00039,주식회사 한강출판 Online,Online,경기,남양주시,2022-02-17,,1
+PT00040,유한회사 다올국민네트워크 Authorized,Authorized,서울,태안군,2024-09-03,,1
+PT00041,유한회사 씨앤씨우리금고 Authorized,Authorized,서울,청주시 서원구,2021-09-01,PT00078,1
+PT00042,(주) 겨레 Authorized,Authorized,전북,춘천시,2023-07-24,,1
+PT00043,(주) 마음다올뷰티 Authorized,Authorized,서울,양양군,2024-03-12,,1
+PT00044,유한회사 넥스트시스템 Online,Online,부산,횡성군,2021-10-25,,1
+PT00045,유한회사 인포네트워크 Premium,Premium Reseller,서울,성남시 수정구,2020-02-16,,1
+PT00046,(주) 고려 Premium,Premium Reseller,대구,괴산군,2023-07-20,,1
+PT00047,유한회사 월드출판 Carrier,Carrier,경기,고양시 일산동구,2020-01-05,,1
+PT00048,주식회사 시너지개발 Premium,Premium Reseller,경기,의정부시,2021-05-30,,1
+PT00049,(유) 아름하나코스메틱 Online,Online,부산,이천시,2020-04-03,,1
+PT00050,주식회사 겨레조선항공 Online,Online,충남,성남시 중원구,2019-08-13,PT00048,1
+PT00051,(주) 겨레조선출판 Premium,Premium Reseller,광주,화천군,2024-05-12,,1
+PT00052,(주) 윈드기획 Carrier,Carrier,부산,안산시 단원구,2022-07-09,,1
+PT00053,(주) 푸른 Authorized,Authorized,대구,구리시,2018-08-01,,1
+PT00054,주식회사 조선그룹 Premium,Premium Reseller,경기,부여군,2021-06-08,,1
+PT00055,(유) 모두라온에너지 Authorized,Authorized,경북,구리시,2018-09-12,,1
+PT00056,주식회사 코어코리아신문 Online,Online,서울,홍천군,2020-04-05,PT00046,1
+PT00057,(주) 우리네트워크 Authorized,Authorized,서울,성남시 분당구,2020-09-09,,1
+PT00058,(유) 글로벌엔지니어링 Online,Online,충남,화성시,2022-07-29,,1
+PT00059,(유) 네오에코항공 Authorized,Authorized,대구,제천시,2020-01-29,,1
+PT00060,(주) 코어 Carrier,Carrier,서울,천안시 서북구,2020-07-28,,1
+PT00061,(주) 글로벌 Carrier,Carrier,부산,시흥시,2020-07-19,,1
+PT00062,주식회사 미래시스템즈 Carrier,Carrier,부산,당진시,2018-12-25,PT00078,1
+PT00063,(유) 라온 Premium,Premium Reseller,경기,청주시 흥덕구,2019-10-17,,1
+PT00064,유한회사 모두겨레기획 Premium,Premium Reseller,충남,청양군,2023-05-25,,1
+PT00065,(주) 가람브레인랩스 Online,Online,충북,청양군,2021-08-09,,1
+PT00066,유한회사 인포전자 Authorized,Authorized,서울,공주시,2020-03-24,,1
+PT00067,(주) 하나바이오 Online,Online,경북,천안시 동남구,2018-01-31,,1
+PT00068,주식회사 아름글로벌그룹 Premium,Premium Reseller,부산,용인시 처인구,2018-04-22,,1
+PT00069,(유) 라온소프트 Premium,Premium Reseller,울산,청주시 상당구,2021-02-06,,1
+PT00070,유한회사 중앙한빛바이오 Carrier,Carrier,서울,구리시,2018-11-16,,1
+PT00071,유한회사 가야보안 Authorized,Authorized,부산,증평군,2019-05-20,PT00054,1
+PT00072,주식회사 미래네오네트워크 Authorized,Authorized,충남,수원시 장안구,2020-10-29,,1
+PT00073,주식회사 다올우리엔지니어링 Authorized,Authorized,서울,용인시 처인구,2018-05-01,,1
+PT00074,주식회사 가야뷰티 Authorized,Authorized,광주,춘천시,2024-12-24,PT00029,1
+PT00075,(주) 미래비전테크 Authorized,Authorized,경기,춘천시,2020-10-16,,1
+PT00076,(유) 가야 Online,Online,대구,부천시 원미구,2023-10-13,,1
+PT00077,(유) 가온네트워크 Authorized,Authorized,부산,계룡시,2020-03-22,,1
+PT00078,(유) 아름종합테크 Premium,Premium Reseller,서울,부천시 원미구,2021-09-12,,1
+PT00079,주식회사 모두 Authorized,Authorized,인천,성남시,2021-04-11,,1
+PT00080,(주) 유니온이노뷰티 Authorized,Authorized,서울,포천시,2024-01-12,,1

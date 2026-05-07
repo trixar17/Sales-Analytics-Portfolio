@@ -1,0 +1,37 @@
+﻿promo_id,promo_name,offer_type,start_date,end_date,discount_pct,target_product_line,target_tier
+PR20254-001,Lunar New Year Promo #1,Trade-in,2025-12-19,2026-01-09,0.21,Accessories,Authorized
+PR20253-002,Back to School #2,Cashback,2025-07-28,2025-08-18,0.07,Watch,Authorized
+PR20254-003,Education Discount #3,Direct Discount,2025-10-23,2025-11-22,0.09,Accessories,Authorized
+PR20242-004,Carrier Bundle Deal #4,Direct Discount,2024-05-16,2024-05-30,0.27,Accessories,Carrier
+PR20261-005,Holiday Cashback #5,Direct Discount,2026-02-25,2026-03-11,0.2,Watch,
+PR20261-006,Holiday Cashback #6,Bundle,2026-03-16,2026-04-06,0.05,Mac,Online
+PR20254-007,Spring Festival #7,Direct Discount,2025-12-16,2026-01-06,0.08,Mac,Premium Reseller
+PR20253-008,Trade-in Boost #8,Trade-in,2025-07-22,2025-08-21,0.22,iPad,Online
+PR20251-009,Back to School #9,Bundle,2025-02-20,2025-03-13,0.05,Accessories,Authorized
+PR20252-010,Carrier Bundle Deal #10,Bundle,2025-05-06,2025-05-20,0.09,,
+PR20242-011,Spring Festival #11,Trade-in,2024-05-05,2024-05-19,0.19,Mac,Carrier
+PR20251-012,Lunar New Year Promo #12,Direct Discount,2025-01-29,2025-02-12,0.22,Mac,Premium Reseller
+PR20244-013,iPhone Launch Special #13,Trade-in,2024-12-18,2025-01-01,0.21,Mac,Premium Reseller
+PR20254-014,Black Friday KR #14,Direct Discount,2025-12-07,2025-12-21,0.11,,Online
+PR20251-015,Back to School #15,Direct Discount,2025-02-27,2025-03-13,0.23,iPhone,Carrier
+PR20261-016,Spring Festival #16,Direct Discount,2026-02-22,2026-03-15,0.11,Watch,Carrier
+PR20261-017,Spring Festival #17,Direct Discount,2026-03-24,2026-04-07,0.13,iPad,Premium Reseller
+PR20261-018,Black Friday KR #18,Direct Discount,2026-02-09,2026-03-02,0.24,Accessories,Premium Reseller
+PR20251-019,Spring Festival #19,Trade-in,2025-03-22,2025-04-12,0.21,Accessories,Authorized
+PR20252-020,Holiday Cashback #20,Cashback,2025-06-23,2025-07-07,0.26,iPad,Online
+PR20254-021,Trade-in Boost #21,Bundle,2025-12-02,2025-12-09,0.21,iPhone,Carrier
+PR20254-022,Carrier Bundle Deal #22,Trade-in,2025-11-22,2025-12-06,0.19,Mac,Carrier
+PR20252-023,Black Friday KR #23,Direct Discount,2025-06-29,2025-07-20,0.07,Mac,
+PR20261-024,Lunar New Year Promo #24,Direct Discount,2026-01-12,2026-01-26,0.14,Watch,
+PR20253-025,Spring Festival #25,Trade-in,2025-08-12,2025-09-11,0.12,iPad,Authorized
+PR20261-026,Lunar New Year Promo #26,Bundle,2026-03-29,2026-04-28,0.11,Mac,Premium Reseller
+PR20244-027,Lunar New Year Promo #27,Direct Discount,2024-10-19,2024-11-09,0.29,,Carrier
+PR20252-028,Lunar New Year Promo #28,Bundle,2025-05-15,2025-06-05,0.15,Mac,Premium Reseller
+PR20244-029,Lunar New Year Promo #29,Trade-in,2024-10-18,2024-10-25,0.27,,Carrier
+PR20244-030,Spring Festival #30,Bundle,2024-11-28,2024-12-12,0.21,,Authorized
+PR20252-031,Education Discount #31,Bundle,2025-04-04,2025-05-04,0.25,Mac,Authorized
+PR20252-032,Lunar New Year Promo #32,Cashback,2025-05-13,2025-06-03,0.18,Mac,Authorized
+PR20242-033,Spring Festival #33,Trade-in,2024-05-23,2024-05-30,0.19,Accessories,Online
+PR20251-034,Education Discount #34,Bundle,2025-02-27,2025-03-06,0.17,Accessories,
+PR20251-035,iPhone Launch Special #35,Bundle,2025-01-17,2025-01-24,0.1,iPhone,
+PR20254-036,Carrier Bundle Deal #36,Bundle,2025-10-02,2025-10-16,0.23,Mac,
