@@ -149,14 +149,14 @@ The portfolio reconstructs the analytics workflow of the sales organization with
 ## 📁 Repository Structure
 
 ```
-apple-korea-sales-portfolio/
+Sales-Analytics-Portfolio/
 ├── README.md
 ├── requirements.txt
-├── generate_data.py              # Python data generator
-├── data/                         # 7 CSV files (auto-generated)
+├── generate_data.py                      # Python data generator
+├── data/                                 # 7 CSV files (auto-generated)
 ├── tableau/
-│   └── apple_korea_sales.twbx    # Packaged Tableau workbook
-└── screenshots/                  # Dashboard screenshots
+│   └── sales_analytics_dashboard.twbx    # Packaged Tableau workbook
+└── screenshots/                          # Dashboard screenshots
     ├── 01_partner_overview.png
     ├── 02_conversion_funnel.png
     ├── 03_promo_performance.png
