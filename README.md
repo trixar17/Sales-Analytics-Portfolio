@@ -151,7 +151,6 @@ The portfolio reconstructs the analytics workflow of the sales organization with
 ```
 Sales-Analytics-Portfolio/
 ├── README.md
-├── requirements.txt
 ├── generate_data.py                      # Python data generator
 ├── data/                                 # 7 CSV files (auto-generated)
 ├── tableau/
