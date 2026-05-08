@@ -216,6 +216,7 @@ ELSE ATTR([Partner Tier]) END
 - 📧 trixar17@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/trixar17)
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/sunghoon.jun)
+- 🧾 [Notion](https://intelligent-king-205.notion.site/Sales-Analytics-Portfolio-35ab35986d798002a854e2021019e93e)
 
 ---
 
